@@ -23,3 +23,21 @@ Resets to 01:00:00 after reaching 00:00:00.
 Compiler: GCC or any C compiler.
 Libraries: Standard C libraries for time and I/O operations.
 
+# Installation
+1. Clone the repository:
+```
+git clone https://github.com/VadaPavMan/Basic-Clock-Project-in-C
+```
+2. Navigate to the project directory:
+```
+cd Basic-Clock-Project-in-C
+```
+3. Compile the C program:
+```
+gcc -o normal normal.c
+```
+4. Run the code:
+```
+./normal
+```
+
